@@ -1,6 +1,6 @@
 # D1-mini-AI
 
-## Reference: 超入門！AI 聲音姿態影像辨識大應用範例程式 by 旗標創客
+### Reference: 超入門！AI 聲音姿態影像辨識大應用範例程式 by 旗標創客 [連結](https://www.accupass.com/event/2111240632466403013420)
 
 - LAB00 自製線上手語辨識練習系統
 
