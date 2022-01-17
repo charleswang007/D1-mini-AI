@@ -4,6 +4,8 @@
 
 ### Teachable Machine: https://teachablemachine.withgoogle.com/train/image
 
+### 剪刀石頭布: https://flagtech.github.io/FM633A/rsp_game/
+
 - LAB00 自製線上手語辨識練習系統
 
 - LAB01 點亮/熄滅 LED
